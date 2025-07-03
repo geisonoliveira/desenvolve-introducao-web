@@ -1,0 +1,36 @@
+body {
+  width: 1200px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+p {
+  text-indent: 1em;
+}
+
+h1 {
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.explanation {
+  text-align: center; 
+}
+
+.preamble p {
+  line-height: 1.5; 
+}
+
+abbr {
+  font-variant: small-caps;
+}
